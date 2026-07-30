@@ -1,0 +1,236 @@
+[
+  {
+    "id": "bitmain-s23-hyd",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S23 Hyd",
+    "hashrate_th": 580.0,
+    "power_watts": 5510.0,
+    "default_capex_usd": 17400.0,
+    "efficiency_j_th": 9.5
+  },
+  {
+    "id": "bitmain-s21-xp-hyd",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21 XP Hyd",
+    "hashrate_th": 473.0,
+    "power_watts": 5676.0,
+    "default_capex_usd": 10170.0,
+    "efficiency_j_th": 12.0
+  },
+  {
+    "id": "whatsminer-m73s-plus",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M73S+",
+    "hashrate_th": 570.0,
+    "power_watts": 7125.0,
+    "default_capex_usd": 11400.0,
+    "efficiency_j_th": 12.5
+  },
+  {
+    "id": "bitmain-s21-xp",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21 XP",
+    "hashrate_th": 270.0,
+    "power_watts": 3645.0,
+    "default_capex_usd": 4590.0,
+    "efficiency_j_th": 13.5
+  },
+  {
+    "id": "whatsminer-m70s-plus",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M70S+",
+    "hashrate_th": 262.0,
+    "power_watts": 3275.0,
+    "default_capex_usd": 4450.0,
+    "efficiency_j_th": 12.5
+  },
+  {
+    "id": "bitmain-s21-pro",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21 Pro",
+    "hashrate_th": 234.0,
+    "power_watts": 3510.0,
+    "default_capex_usd": 4200.0,
+    "efficiency_j_th": 15.0
+  },
+  {
+    "id": "bitmain-s21-plus-hyd",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21+ Hyd",
+    "hashrate_th": 358.0,
+    "power_watts": 5370.0,
+    "default_capex_usd": 5370.0,
+    "efficiency_j_th": 15.0
+  },
+  {
+    "id": "bitmain-s21-hyd",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21 Hydro",
+    "hashrate_th": 335.0,
+    "power_watts": 5360.0,
+    "default_capex_usd": 7200.0,
+    "efficiency_j_th": 16.0
+  },
+  {
+    "id": "bitmain-s21-plus",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21+",
+    "hashrate_th": 216.0,
+    "power_watts": 3564.0,
+    "default_capex_usd": 3800.0,
+    "efficiency_j_th": 16.5
+  },
+  {
+    "id": "bitmain-s21",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S21",
+    "hashrate_th": 200.0,
+    "power_watts": 3500.0,
+    "default_capex_usd": 3500.0,
+    "efficiency_j_th": 17.5
+  },
+  {
+    "id": "avalon-a1566ha",
+    "manufacturer": "Canaan",
+    "model": "Avalon A1566HA",
+    "hashrate_th": 460.0,
+    "power_watts": 8188.0,
+    "default_capex_usd": 5500.0,
+    "efficiency_j_th": 17.8
+  },
+  {
+    "id": "whatsminer-m60s",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M60S",
+    "hashrate_th": 186.0,
+    "power_watts": 3441.0,
+    "default_capex_usd": 3100.0,
+    "efficiency_j_th": 18.5
+  },
+  {
+    "id": "bitmain-t21",
+    "manufacturer": "Bitmain",
+    "model": "Antminer T21",
+    "hashrate_th": 190.0,
+    "power_watts": 3610.0,
+    "default_capex_usd": 3300.0,
+    "efficiency_j_th": 19.0
+  },
+  {
+    "id": "whatsminer-m60",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M60",
+    "hashrate_th": 172.0,
+    "power_watts": 3422.0,
+    "default_capex_usd": 2800.0,
+    "efficiency_j_th": 19.9
+  },
+  {
+    "id": "bitmain-s19-xp-hyd",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19 XP Hyd",
+    "hashrate_th": 255.0,
+    "power_watts": 5304.0,
+    "default_capex_usd": 3500.0,
+    "efficiency_j_th": 20.8
+  },
+  {
+    "id": "bitmain-s19-xp",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19 XP",
+    "hashrate_th": 140.0,
+    "power_watts": 3010.0,
+    "default_capex_usd": 2100.0,
+    "efficiency_j_th": 21.5
+  },
+  {
+    "id": "avalon-a1466",
+    "manufacturer": "Canaan",
+    "model": "AvalonMiner 1466",
+    "hashrate_th": 150.0,
+    "power_watts": 3500.0,
+    "default_capex_usd": 2200.0,
+    "efficiency_j_th": 23.3
+  },
+  {
+    "id": "whatsminer-m50s-plus",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M50S+",
+    "hashrate_th": 136.0,
+    "power_watts": 3536.0,
+    "default_capex_usd": 1800.0,
+    "efficiency_j_th": 26.0
+  },
+  {
+    "id": "whatsminer-m50s",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M50S",
+    "hashrate_th": 126.0,
+    "power_watts": 3276.0,
+    "default_capex_usd": 1500.0,
+    "efficiency_j_th": 26.0
+  },
+  {
+    "id": "bitmain-s19j-xp",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19j XP",
+    "hashrate_th": 151.0,
+    "power_watts": 3247.0,
+    "default_capex_usd": 1900.0,
+    "efficiency_j_th": 21.5
+  },
+  {
+    "id": "bitmain-s19j-pro-plus",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19j Pro+",
+    "hashrate_th": 122.0,
+    "power_watts": 3355.0,
+    "default_capex_usd": 1300.0,
+    "efficiency_j_th": 27.5
+  },
+  {
+    "id": "bitmain-s19j-pro",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19j Pro",
+    "hashrate_th": 104.0,
+    "power_watts": 3068.0,
+    "default_capex_usd": 900.0,
+    "efficiency_j_th": 29.5
+  },
+  {
+    "id": "bitmain-s19-pro",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19 Pro",
+    "hashrate_th": 110.0,
+    "power_watts": 3250.0,
+    "default_capex_usd": 1000.0,
+    "efficiency_j_th": 29.5
+  },
+  {
+    "id": "whatsminer-m30s-plus-plus",
+    "manufacturer": "MicroBT",
+    "model": "Whatsminer M30S++",
+    "hashrate_th": 112.0,
+    "power_watts": 3472.0,
+    "default_capex_usd": 950.0,
+    "efficiency_j_th": 31.0
+  },
+  {
+    "id": "bitmain-s19",
+    "manufacturer": "Bitmain",
+    "model": "Antminer S19",
+    "hashrate_th": 95.0,
+    "power_watts": 3250.0,
+    "default_capex_usd": 700.0,
+    "efficiency_j_th": 34.2
+  },
+  {
+    "id": "avalon-a1246",
+    "manufacturer": "Canaan",
+    "model": "AvalonMiner 1246",
+    "hashrate_th": 90.0,
+    "power_watts": 3420.0,
+    "default_capex_usd": 600.0,
+    "efficiency_j_th": 38.0
+  }
+]
