@@ -1,4 +1,4 @@
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://81jtcgwg-8000.uks1.devtunnels.ms';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://mining-payback.onrender.com';
 
 export interface MinerRequestParams {
   electricity_cost: number;
